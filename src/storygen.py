@@ -1,0 +1,4 @@
+def generate():
+  title = "What’s the most unexpected way someone earned your respect?"
+  script = "I used to think my little sister’s boyfriend was just another guy trying to impress the family. He was polite, sure, but nothing special. Until one night, everything changed. Our family was out at a restaurant when an older man at the next table dropped his wallet. Before anyone could react, the guy bolted—not away, but toward the man. He picked up the wallet, handed it back, and even helped the man count his cash to make sure nothing was missing. The man looked shocked, then smiled and said, “Not many people would’ve done that, kid.” Neither did I. That was the moment I realized—this guy wasn’t just trying to impress us. He was just genuinely good. “Sometimes, the smallest actions reveal the biggest truths.”"
+  return title, script
